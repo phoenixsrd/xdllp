@@ -1,0 +1,6 @@
+telethon
+cryptg
+hachoir
+requests
+python-dotenv
+yt-dlp
